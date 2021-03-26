@@ -1,1 +1,1 @@
-# sapmle-Design-with-html-ana-css
+# sapmle-Design-with-html-and-css
